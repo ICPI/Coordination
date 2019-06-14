@@ -1,1 +1,27 @@
 6 month priorities
+- **SO #3 Innovation:**
+     - Re-imagining visuals in  PEPFAR Analytic Workspaces (PAW) - 
+		     - Transitioning the routine analysis to analytic workspaces
+		     - Not recreating every dashboard
+		     - Making sure all data are available, but with a new integrated approach
+		 - Dedicate time to learn PAW
+     - Harmonization of visuals across clusters (assign people to work on this project)
+     - Develop templates for country teams to use to populate their analytics
+     - Country Specific Analytics 
+- **SO #2 Forum & SO #4 Capacity Building**
+     - Establish an Interagency Training Series for SI Ismes
+     - Establish ICPI Liaisons and Analysts to the field 
+     - Build relationships with ISMES
+- **SO #1 Engagement**
+     - ECT Liaisons to set up a meeting with the clusters to discuss engagement
+     - Dedicate time to knowledge management - make sure that all your files are on SP
+- **SO # 4 Efficiencies**
+     - No matter how trivial, make sure all Presentations and Analyses include a source
+     - Examples for Internal and external presentations
+        - Source: FY18Q4 ICPI PMTCT Dashboard (data available on data.pepfar.gov)
+        - Source: FY18Q4 ICPI DREAMS Dashboard (on pepfar.net here)
+        - Source: FY18Q4 Ad Hoc analysis using MER Structured Dataset (available here)
+        - Inside the analysis (excel, tableau, etc) 
+        - Include context and add the below
+        - Compiled by ICPI for  John Snow on 11/27/2000 by Arya Stark, email ICPI@state.gov with any questions. Not reviewed by ICPI leads.
+
